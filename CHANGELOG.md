@@ -5,6 +5,8 @@ All notable changes to the Data Analyst Agent will be documented in this file.
 ## [2.0.0] - Next Release (In Development)
 
 ### 🚀 New Features
+- [x] **Conversational Data Chat** (`conversational_data_chat.py`) - ChatGPT-style interface for data analysis
+- [x] **Chat with Your Data** (`chat_with_data.py`) - Enhanced chat interface with data-aware responses
 - [x] Advanced data preprocessing pipeline (`data_preprocessor.py`)
 - [x] Interactive data cleaning tools with multiple strategies
 - [x] Export analysis reports as PDF/HTML (`report_generator.py`)
@@ -19,6 +21,10 @@ All notable changes to the Data Analyst Agent will be documented in this file.
 - [x] Enhanced UI with gradient styling
 - [x] Data quality assessment dashboard
 - [x] Professional report generation
+- [x] **Natural language data exploration**
+- [x] **Conversation starters and suggestions**
+- [x] **Smart visualization generation**
+- [x] **Context-aware AI responses**
 
 ### 🔧 Improvements
 - [x] Enhanced error handling for complex data types
